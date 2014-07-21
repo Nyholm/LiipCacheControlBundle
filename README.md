@@ -11,8 +11,10 @@ app configuration and provides a helper to control the reverse proxy varnish.
 Roadmap
 =======
 
-This bundle is about to be replaced with the [FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle).
-An upgrade help will be provided soonish.
+The LiipCacheControlBundle went into maintenance only mode. It is replaced by 
+the [FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle).
+
+See our [migration guide](MIGRATE_FOS.md) for help how to transition to the new bundle.
 
 This repository will stay available to not break existing installations, but
 there will only be minimal maintenance.
